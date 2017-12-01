@@ -1,2 +1,0 @@
-# zentaMED
-hola a todos

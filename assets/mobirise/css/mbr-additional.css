@@ -1767,69 +1767,6 @@ body {
 .cid-qCqL1U0WXW .card-title {
   text-align: left;
 }
-.cid-qCzquGWD6R {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-qCzquGWD6R .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qCznzH3wTv {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #efefef, #efefef);
-}
-.cid-qCznzH3wTv .list-group-item {
-  padding: .75rem 3.25rem;
-}
-.cid-qCznzH3wTv .plan {
-  word-break: break-word;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #767676;
-}
-.cid-qCznzH3wTv .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-}
-.cid-qCznzH3wTv .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-qCznzH3wTv .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-qCznzH3wTv .plan-header {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-qCznzH3wTv .plan-header,
-.cid-qCznzH3wTv .plan-body {
-  background-color: #fff;
-}
-.cid-qCznzH3wTv .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-.cid-qCznzH3wTv .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-qCznzH3wTv .price-figure {
-    font-size: 4.25rem;
-  }
-}
 .cid-qCzpKiYptY {
   padding-top: 75px;
   padding-bottom: 60px;
